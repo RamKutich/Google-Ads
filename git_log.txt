@@ -1,0 +1,42 @@
+commit c68dc0652b4f4ac012a1bc9d6edd090bce0634a0
+Merge: 21300bb 6dda5dd
+Author: unknown <RamKutich>
+Date:   Mon Oct 14 14:17:27 2024 +0200
+
+    Merge branch 'main' of https://github.com/RamKutich/Google-Ads
+
+commit 21300bb1c4127a6b61b7facded9d31e9f2dc35d5
+Author: unknown <RamKutich>
+Date:   Mon Oct 14 14:07:00 2024 +0200
+
+    <GRS-23, 1> <message text itself>
+
+commit 6dda5ddfa4084aaee92f264b016f245d21f776ab
+Author: RamKutich <ramkkutich@gmail.com>
+Date:   Mon Oct 7 13:19:14 2024 +0200
+
+    Update index.tex
+
+commit 0a09c9ff2d681149fbd9022887342b9c76ce6295
+Author: RamKutich <ramkkutich@gmail.com>
+Date:   Mon Sep 30 14:36:15 2024 +0200
+
+    Add files via upload
+
+commit 5e93e3d3e4c9e321c82f4bd2f7dca8c90910d5c5
+Author: RamKutich <ramkkutich@gmail.com>
+Date:   Mon Sep 30 14:23:19 2024 +0200
+
+    Add files via upload
+
+commit cae531f8b9f79c1ec386b26a58c3905c2271b26c
+Author: unknown <RamKutich>
+Date:   Mon Sep 30 14:21:55 2024 +0200
+
+    Clanok.tex
+
+commit 201217cd65460355b8d7ed2cc63cde196c1795a2
+Author: unknown <RamKutich>
+Date:   Mon Sep 30 14:10:23 2024 +0200
+
+    index.tex
